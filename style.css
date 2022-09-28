@@ -1,0 +1,13 @@
+.heading{
+    display: block;
+    text-align: center;
+}
+.loginForm{
+    margin-top: 20px;
+}
+body{
+    background-color: chocolate;
+}
+.container{
+    padding: 30px;
+}
